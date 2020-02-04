@@ -5,3 +5,10 @@ public class HelloWorld {
 		System.out.println("Hello World !");
 	}
 }
+
+class Dog {
+
+	public static void Bark() {
+		System.out.println("Bark");
+	}
+}
